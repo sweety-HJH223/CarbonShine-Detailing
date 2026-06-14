@@ -5,8 +5,6 @@ A premium dark mode lead generation website for a car detailing studio. Built as
 ## 🔗 Live Demo
 [carbonshine-detailing.vercel.app](https://carbonshine-detailing.vercel.app)
 
-## 📸 Preview
-![CarbonShine Preview](/public/carbonshine.png)
 
 ## ✨ Features
 - Premium dark mode (#0f172a background, electric blue accents)
@@ -74,5 +72,3 @@ footer.tsx            # Footer with links
 
 > 📌 This is a portfolio demo project. Not a real business.
 Open [http://localhost:3000](http://localhost:3000)
-
-## 📁 Project Structure
