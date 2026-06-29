@@ -70,5 +70,3 @@ footer.tsx            # Footer with links
 ## 👩‍💻 Built By
 **SweetyCodes** — [portfolio-one-taupe-42.vercel.app](https://portfolio-one-taupe-42.vercel.app)
 
-> 📌 This is a portfolio demo project. Not a real business.
-Open [http://localhost:3000](http://localhost:3000)
