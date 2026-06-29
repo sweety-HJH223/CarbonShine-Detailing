@@ -68,5 +68,5 @@ success-modal.tsx     # Thank you modal
 footer.tsx            # Footer with links
 
 ## 👩‍💻 Built By
-**SweetyCodes** — [portfolio-one-taupe-42.vercel.app](https://portfolio-one-taupe-42.vercel.app)
+**SweetyCodes** — [sweetycodes-jh.vercel.app](https://sweetycodes-jh.vercel.app/)
 
