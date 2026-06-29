@@ -1,6 +1,6 @@
 # 🚗 CarbonShine Detailing
 
-A premium dark mode lead generation website for a car detailing studio. Built as a freelance portfolio demo project targeting global clients.
+A premium dark mode lead generation website for a car detailing studio, built for global clients.
 
 ## 🔗 Live Demo
 [carbonshine-detailing.vercel.app](https://carbonshine-detailing.vercel.app)
@@ -26,7 +26,7 @@ When a visitor submits the form:
 3. Success modal appears confirming submission
 
 ## 🛠️ Tech Stack
-- Next.js 16
+- Next.js 15
 - Tailwind CSS
 - TypeScript
 - Formspree (form backend)
@@ -40,32 +40,23 @@ npm install
 npm run dev
 ```
 Open [http://localhost:3000](http://localhost:3000)
-
 ## 📁 Project Structure
 
+```
 app/
-
-page.tsx              # Main page + state management
-
-globals.css           # Global styles
+├── page.tsx          # Main page + state management
+└── globals.css       # Global styles
 
 components/
-
-navbar.tsx            # Sticky nav + hamburger menu
-
-hero.tsx              # Hero with car image
-
-value-grid.tsx        # 3 feature cards
-
-before-after.tsx      # Image comparison
-
-pricing-cards.tsx     # 3-tier pricing + hover
-
-booking-form.tsx      # Form + Formspree integration
-
-success-modal.tsx     # Thank you modal
-
-footer.tsx            # Footer with links
+├── navbar.tsx        # Sticky nav + hamburger menu
+├── hero.tsx          # Hero with car image
+├── value-grid.tsx    # 3 feature cards
+├── before-after.tsx  # Image comparison
+├── pricing-cards.tsx # 3-tier pricing + hover
+├── booking-form.tsx  # Form + Formspree integration
+├── success-modal.tsx # Thank you modal
+└── footer.tsx        # Footer with links
+```
 
 ## 👩‍💻 Built By
 **SweetyCodes** — [sweetycodes-jh.vercel.app](https://sweetycodes-jh.vercel.app/)
